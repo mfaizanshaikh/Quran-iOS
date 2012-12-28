@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <array>
+        <dict>
+            <key>chapterName</key>
+            <string>Alif Laam Meem</string>
+            <key>pageNumber</key>
+            <integer>2</integer>
+        </dict>
+        
+        <dict>
+            <key>chapterName</key>
+            <string>Sayaqulu</string>
+            <key>pageNumber</key>
+            <integer>23</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Tilkal Rasoolo</string>
+            <key>pageNumber</key>
+            <integer>43</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Lan Tanalu</string>
+            <key>pageNumber</key>
+            <integer>63</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Wal Mohsinatu</string>
+            <key>pageNumber</key>
+            <integer>83</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>La Yuhibbullahu</string>
+            <key>pageNumber</key>
+            <integer>103</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Waiza Samioo</string>
+            <key>pageNumber</key>
+            <integer>123</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Walau Annana</string>
+            <key>pageNumber</key>
+            <integer>143</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Qalal Malaoo</string>
+            <key>pageNumber</key>
+            <integer>163</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Wa alamu Annamah</string>
+            <key>pageNumber</key>
+            <integer>183</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Ya Tazeroona</string>
+            <key>pageNumber</key>
+            <integer>203</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Wama Min Da'abbatin</string>
+            <key>pageNumber</key>
+            <integer>223</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Wama Obarriyo</string>
+            <key>pageNumber</key>
+            <integer>243</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Rubama Yawaddul</string>
+            <key>pageNumber</key>
+            <integer>263</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Subhanal Lazi Asra</string>
+            <key>pageNumber</key>
+            <integer>283</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Khala alam Aqul laka</string>
+            <key>pageNumber</key>
+            <integer>303</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Iqtaraba Linnaasi</string>
+            <key>pageNumber</key>
+            <integer>323</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Qadh Aflaha</string>
+            <key>pageNumber</key>
+            <integer>343</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Wa Khalal Lazina</string>
+            <key>pageNumber</key>
+            <integer>363</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Amman Khalakhas Samawati</string>
+            <key>pageNumber</key>
+            <integer>383</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Otlo Ma Ohia</string>
+            <key>pageNumber</key>
+            <integer>403</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Wamai Yaqnut</string>
+            <key>pageNumber</key>
+            <integer>423</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Wamali Aabudhu</string>
+            <key>pageNumber</key>
+            <integer>443</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Faman Azlamu Mimman</string>
+            <key>pageNumber</key>
+            <integer>463</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Ilaihi Uraddu</string>
+            <key>pageNumber</key>
+            <integer>483</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Haam Meem</string>
+            <key>pageNumber</key>
+            <integer>503</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Khala Fama Khadbukum</string>
+            <key>pageNumber</key>
+            <integer>523</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Khad Samiallah</string>
+            <key>pageNumber</key>
+            <integer>543</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Tabarakallazi</string>
+            <key>pageNumber</key>
+            <integer>563</integer>
+        </dict>
+        <dict>
+            <key>chapterName</key>
+            <string>Amma Yatasaaloon</string>
+            <key>pageNumber</key>
+            <integer>587</integer>
+        </dict>
+        </array>
+</plist>

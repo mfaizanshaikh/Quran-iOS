@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>surahName</key>
+		<string>Faatihah (The Opening)</string>
+		<key>pageNumber</key>
+		<integer>2</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Baqarah (The Cow)</string>
+		<key>pageNumber</key>
+		<integer>3</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Aali-Imraan (The Family of Imraan)</string>
+		<key>pageNumber</key>
+		<integer>51</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Nisaaa (Women)</string>
+		<key>pageNumber</key>
+		<integer>78</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Maaa-idah (The Table Spread)</string>
+		<key>pageNumber</key>
+		<integer>107</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>An-aam (Cattle)</string>
+		<key>pageNumber</key>
+		<integer>129</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>A-raaf (The Heights)</string>
+		<key>pageNumber</key>
+		<integer>152</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Anfaal (Spoils of War)</string>
+		<key>pageNumber</key>
+		<integer>178</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Tawbah (Repentance)</string>
+		<key>pageNumber</key>
+		<integer>188</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Yuunus (Jonah)</string>
+		<key>pageNumber</key>
+		<integer>209</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Huud (Hud)
+</string>
+		<key>pageNumber</key>
+		<integer>222</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Yusuuf (Joseph)</string>
+		<key>pageNumber</key>
+		<integer>236</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Ra&apos;d (The Thunder)</string>
+		<key>pageNumber</key>
+		<integer>250</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Ibraahiim (Abraham)</string>
+		<key>pageNumber</key>
+		<integer>256</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Al-Hijr (The Rocky Tract)</string>
+		<key>pageNumber</key>
+		<integer>262</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Nahl (The Bee)</string>
+		<key>pageNumber</key>
+		<integer>268</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Baniii-&apos;Is-raaa-&apos;iil (The Children of &apos;Israel)</string>
+		<key>pageNumber</key>
+		<integer>283</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Kahf (The Cave)</string>
+		<key>pageNumber</key>
+		<integer>294</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Maryam (Mary)</string>
+		<key>pageNumber</key>
+		<integer>306</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Taa-Haa (Ta-Ha)</string>
+		<key>pageNumber</key>
+		<integer>313</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Ambiyaaa (The Prophets)</string>
+		<key>pageNumber</key>
+		<integer>323</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Hajj (The Pilgrimage)</string>
+		<key>pageNumber</key>
+		<integer>332</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Mu&apos;-minuun (The Believers)</string>
+		<key>pageNumber</key>
+		<integer>343</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Nuur (Light)</string>
+		<key>pageNumber</key>
+		<integer>351</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Furqaan (The Criterion of Right and Wrong)</string>
+		<key>pageNumber</key>
+		<integer>360</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Shu-&apos;araaa&apos; (The Poets)</string>
+		<key>pageNumber</key>
+		<integer>367</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Naml (The Ant)</string>
+		<key>pageNumber</key>
+		<integer>377</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Qasas (The Story)</string>
+		<key>pageNumber</key>
+		<integer>386</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>&apos;Ankabuut (The Spider)</string>
+		<key>pageNumber</key>
+		<integer>397</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Ruum (Romans)</string>
+		<key>pageNumber</key>
+		<integer>405</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Luqmaan (Luqman)</string>
+		<key>pageNumber</key>
+		<integer>412</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Sajdah (The Prostration)</string>
+		<key>pageNumber</key>
+		<integer>416</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Ahzaab (The Clans)</string>
+		<key>pageNumber</key>
+		<integer>419</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Saba&apos; (Saba)</string>
+		<key>pageNumber</key>
+		<integer>429</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Faatir (The Angels)</string>
+		<key>pageNumber</key>
+		<integer>435</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Yaa-Shiiin (Ya Sin)</string>
+		<key>pageNumber</key>
+		<integer>441</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Saaaffaat (Those Who Set The Ranks)</string>
+		<key>pageNumber</key>
+		<integer>446</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Saaad (Saad)</string>
+		<key>pageNumber</key>
+		<integer>453</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Zumar (The Troops)</string>
+		<key>pageNumber</key>
+		<integer>459</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Mu&apos;min (The Believer)</string>
+		<key>pageNumber</key>
+		<integer>468</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Fussilat (They are Expounded)</string>
+		<key>pageNumber</key>
+		<integer>478</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Shuurah (Counsel)</string>
+		<key>pageNumber</key>
+		<integer>484</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Zukhruf (Ornaments of Gold)</string>
+		<key>pageNumber</key>
+		<integer>490</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Dukhaan (Smoke)</string>
+		<key>pageNumber</key>
+		<integer>496</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Jaasiyah (Crouching)</string>
+		<key>pageNumber</key>
+		<integer>499</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Ahqaaf (The Wind-Curved Sandhills)</string>
+		<key>pageNumber</key>
+		<integer>503</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Muhammad (Muhammad)</string>
+		<key>pageNumber</key>
+		<integer>507</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Fat-h (Victory)</string>
+		<key>pageNumber</key>
+		<integer>512</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Hujuraat (The Private Apartments)</string>
+		<key>pageNumber</key>
+		<integer>516</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Qaaaf (Qaf)</string>
+		<key>pageNumber</key>
+		<integer>519</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Zaarayaat (The Winnowing Winds)</string>
+		<key>pageNumber</key>
+		<integer>521</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Tuur (The Mount)</string>
+		<key>pageNumber</key>
+		<integer>524</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Najm (The Star)</string>
+		<key>pageNumber</key>
+		<integer>527</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Qamar (The Moon)</string>
+		<key>pageNumber</key>
+		<integer>529</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Rahmaan (The Benficent)</string>
+		<key>pageNumber</key>
+		<integer>532</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Waaqi-&apos;ah (The Event)</string>
+		<key>pageNumber</key>
+		<integer>535</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Hadiid (Iron)</string>
+		<key>pageNumber</key>
+		<integer>538</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Majaadalah (She That Disputeth)</string>
+		<key>pageNumber</key>
+		<integer>543</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Hashr (Exile)</string>
+		<key>pageNumber</key>
+		<integer>546</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Mumtahanah (She That Is To Be Examined)</string>
+		<key>pageNumber</key>
+		<integer>550</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Saff (The Ranks)</string>
+		<key>pageNumber</key>
+		<integer>552</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Jumu-&apos;ah (The Congregation)</string>
+		<key>pageNumber</key>
+		<integer>554</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Munaafiquun (The Hypocrites)</string>
+		<key>pageNumber</key>
+		<integer>555</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Tagaabun (Mutual Disillusion)</string>
+		<key>pageNumber</key>
+		<integer>557</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Talaaq (Divorce)</string>
+		<key>pageNumber</key>
+		<integer>559</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Tahriim (Banning)</string>
+		<key>pageNumber</key>
+		<integer>561</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Mulk ulk (The Sovereignty)</string>
+		<key>pageNumber</key>
+		<integer>563</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Qalam (The Pen)</string>
+		<key>pageNumber</key>
+		<integer>565</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Haaaqqah (The Reality)</string>
+		<key>pageNumber</key>
+		<integer>568</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Ma-&apos;aarij (The Asending Stairways)</string>
+		<key>pageNumber</key>
+		<integer>570</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Nuuh (Noah)</string>
+		<key>pageNumber</key>
+		<integer>572</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Jinn (The Jinn)</string>
+		<key>pageNumber</key>
+		<integer>574</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Muzzammil (The Enshrouded One)</string>
+		<key>pageNumber</key>
+		<integer>577</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Muddassir (The Cloaked One)</string>
+		<key>pageNumber</key>
+		<integer>579</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Qiyaamah (The Rising of the Dead)</string>
+		<key>pageNumber</key>
+		<integer>581</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Insaan or Dahr (Time or Man)</string>
+		<key>pageNumber</key>
+		<integer>583</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Mursalaat (The Emissaries)</string>
+		<key>pageNumber</key>
+		<integer>585</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Naba (The Tidings)</string>
+		<key>pageNumber</key>
+		<integer>587</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Naazi-&apos;aat (Those Who Drag Forth)</string>
+		<key>pageNumber</key>
+		<integer>588</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Abasa (He Frowned)</string>
+		<key>pageNumber</key>
+		<integer>590</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Takwiir (The Overthrowing)</string>
+		<key>pageNumber</key>
+		<integer>591</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Infitaar (The Cleaving)</string>
+		<key>pageNumber</key>
+		<integer>592</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Al-Mutaffifin (Defrauding)</string>
+		<key>pageNumber</key>
+		<integer>593</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Inshiqaaq (The Sundering)</string>
+		<key>pageNumber</key>
+		<integer>595</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Buruuj (The Mansions of the Stars)</string>
+		<key>pageNumber</key>
+		<integer>596</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Taariq (The Morning Star)</string>
+		<key>pageNumber</key>
+		<integer>597</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>&apos;A&apos;-laa (The Most High)</string>
+		<key>pageNumber</key>
+		<integer>598</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Gaashiyah (The Overwhelming)</string>
+		<key>pageNumber</key>
+		<integer>598</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Fajr (The Dawn)</string>
+		<key>pageNumber</key>
+		<integer>599</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Balad (The City)</string>
+		<key>pageNumber</key>
+		<integer>601</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Shams (The Sun)</string>
+		<key>pageNumber</key>
+		<integer>601</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Layl (The Night)</string>
+		<key>pageNumber</key>
+		<integer>602</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Zuhaa (The Morning Hours)</string>
+		<key>pageNumber</key>
+		<integer>603</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Inshiraah (Solace)</string>
+		<key>pageNumber</key>
+		<integer>603</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Tiin (The Fig)</string>
+		<key>pageNumber</key>
+		<integer>604</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Alaq (The Cloth)</string>
+		<key>pageNumber</key>
+		<integer>604</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Qadr (Power)</string>
+		<key>pageNumber</key>
+		<integer>605</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Bayyinah (The Clear Proof)</string>
+		<key>pageNumber</key>
+		<integer>605</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Zilzaal (The Earthquake)</string>
+		<key>pageNumber</key>
+		<integer>606</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Aadi-yaat (The Coursers)</string>
+		<key>pageNumber</key>
+		<integer>606</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Al-Qaari-ah (The Calamity)</string>
+		<key>pageNumber</key>
+		<integer>607</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Takaasur (Rivalry in Worldly Increase)</string>
+		<key>pageNumber</key>
+		<integer>607</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Asr (The Declining Day)</string>
+		<key>pageNumber</key>
+		<integer>608</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Humazah (The Traducer)</string>
+		<key>pageNumber</key>
+		<integer>608</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Fil (The Elephant)</string>
+		<key>pageNumber</key>
+		<integer>608</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Quraysh (Winter or Qureysh)</string>
+		<key>pageNumber</key>
+		<integer>609</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Maa-&apos;uun (Small Kindness)</string>
+		<key>pageNumber</key>
+		<integer>609</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Kawsar (Abundance)</string>
+		<key>pageNumber</key>
+		<integer>609</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Kaafiruun (The Disbelievers)</string>
+		<key>pageNumber</key>
+		<integer>609</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Nasr (Soccour)</string>
+		<key>pageNumber</key>
+		<integer>610</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Lahab (Palm Fibre)</string>
+		<key>pageNumber</key>
+		<integer>610</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Ikhlaas (The Unity)</string>
+		<key>pageNumber</key>
+		<integer>610</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Falaq (The Daybreak)</string>
+		<key>pageNumber</key>
+		<integer>611</integer>
+	</dict>
+	<dict>
+		<key>surahName</key>
+		<string>Naas (Mankind)</string>
+		<key>pageNumber</key>
+		<integer>611</integer>
+	</dict>
+</array>
+</plist>
